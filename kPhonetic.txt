@@ -1900,8 +1900,8 @@ U+495E 䥞	kPhonetic	635*
 U+496A 䥪	kPhonetic	470*
 U+496B 䥫	kPhonetic	210
 U+496C 䥬	kPhonetic	1073C
-U+4974 䥴	kPhonetic	720*
 U+4973 䥳	kPhonetic	1504*
+U+4974 䥴	kPhonetic	720*
 U+497A 䥺	kPhonetic	951*
 U+4982 䦂	kPhonetic	1202*
 U+4985 䦅	kPhonetic	1203*
