@@ -4563,7 +4563,7 @@ U+597D 好	kPhonetic	481
 U+597F 奿	kPhonetic	1627*
 U+5981 妁	kPhonetic	106
 U+5982 如	kPhonetic	990 1606
-U+5983 妃	kPhonetic	597 767
+U+5983 妃	kPhonetic	597
 U+5984 妄	kPhonetic	922
 U+5988 妈	kPhonetic	863*
 U+598A 妊	kPhonetic	1476
