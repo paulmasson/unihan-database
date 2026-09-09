@@ -10028,6 +10028,7 @@ U+76D1 监	kPhonetic	544
 U+76D2 盒	kPhonetic	509
 U+76D4 盔	kPhonetic	394
 U+76D6 盖	kPhonetic	508 645 1530
+U+76D7 盗	kPhonetic	1356*
 U+76D8 盘	kPhonetic	1087
 U+76D9 盙	kPhonetic	386*
 U+76DA 盚	kPhonetic	592*
