@@ -24953,3 +24953,4 @@ U+32313 𲌓	kPhonetic	1257A*
 U+3232B 𲌫	kPhonetic	926*
 U+3233F 𲌿	kPhonetic	326*
 U+32372 𲍲	kPhonetic	219*
+U+32E8B 𲺋	kPhonetic	232 1367
