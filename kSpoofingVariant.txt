@@ -28,6 +28,7 @@ U+46B6 䚶	kSpoofingVariant	U+8A1E
 U+48B4 䢴	kSpoofingVariant	U+9097
 U+4C17 䰗	kSpoofingVariant	U+29C18
 U+4C45 䱅	kSpoofingVariant	U+9B87
+U+4DB9 䶹	kSpoofingVariant	U+5C6E
 U+4E86 了	kSpoofingVariant	U+20110
 U+4E8C 二	kSpoofingVariant	U+2011E U+2011F U+20120
 U+4EEA 仪	kSpoofingVariant	U+2EBF7
@@ -62,10 +63,12 @@ U+5929 天	kSpoofingVariant	U+2BBDB
 U+59B9 妹	kSpoofingVariant	U+59BA
 U+59BA 妺	kSpoofingVariant	U+59B9
 U+5B63 季	kSpoofingVariant	U+2EC5C
+U+5C6E 屮	kSpoofingVariant	U+4DB9
 U+5D52 嵒	kSpoofingVariant	U+55A6
 U+5DFD 巽	kSpoofingVariant	U+22049
 U+5E50 幐	kSpoofingVariant	U+3B3A
 U+5EF6 延	kSpoofingVariant	U+2231B
+U+5F56 彖	kSpoofingVariant	U+27C32
 U+5F84 径	kSpoofingVariant	U+2EC7B
 U+62B9 抹	kSpoofingVariant	U+62BA
 U+62BA 抺	kSpoofingVariant	U+62B9
@@ -291,6 +294,7 @@ U+27255 𧉕	kSpoofingVariant	U+8695
 U+277F1 𧟱	kSpoofingVariant	U+277F5
 U+277F5 𧟵	kSpoofingVariant	U+277F1
 U+27AF4 𧫴	kSpoofingVariant	U+8B39
+U+27C32 𧰲	kSpoofingVariant	U+5F56
 U+27FF4 𧿴	kSpoofingVariant	U+8DCA
 U+291DD 𩇝	kSpoofingVariant	U+6FEA
 U+29460 𩑠	kSpoofingVariant	U+9819

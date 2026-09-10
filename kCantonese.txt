@@ -25386,10 +25386,10 @@ U+9FF9 鿹	kCantonese	mat6
 U+9FFA 鿺	kCantonese	mak6
 U+9FFB 鿻	kCantonese	bou3
 U+9FFC 鿼	kCantonese	gaa1
-U+F928 廊 CJK COMPATIBILITY IDEOGRAPH-F928	kCantonese	long4
-U+F936 虜 CJK COMPATIBILITY IDEOGRAPH-F936	kCantonese	lou5
-U+F945 聾 CJK COMPATIBILITY IDEOGRAPH-F945	kCantonese	lung4
-U+FA17 益 CJK COMPATIBILITY IDEOGRAPH-FA17	kCantonese	jik1
+U+F928 廊	kCantonese	long4
+U+F936 虜	kCantonese	lou5
+U+F945 聾	kCantonese	lung4
+U+FA17 益	kCantonese	jik1
 U+20001 𠀁	kCantonese	cat1
 U+20005 𠀅	kCantonese	hoi6
 U+20009 𠀉	kCantonese	jau1
@@ -28985,23 +28985,23 @@ U+2EE57 𮹗	kCantonese	ling4
 U+2EE58 𮹘	kCantonese	ang1
 U+2EE59 𮹙	kCantonese	hok6
 U+2EE5D 𮹝	kCantonese	daap6
-U+2F817 冗 CJK COMPATIBILITY IDEOGRAPH-2F817	kCantonese	jung2
-U+2F825 勇 CJK COMPATIBILITY IDEOGRAPH-2F825	kCantonese	jung5
-U+2F835 灰 CJK COMPATIBILITY IDEOGRAPH-2F835	kCantonese	fui1
-U+2F83B 吆 CJK COMPATIBILITY IDEOGRAPH-2F83B	kCantonese	jiu1
-U+2F840 咢 CJK COMPATIBILITY IDEOGRAPH-2F840	kCantonese	ngok6
-U+2F865 姘 CJK COMPATIBILITY IDEOGRAPH-2F865	kCantonese	ping1
-U+2F878 屮 CJK COMPATIBILITY IDEOGRAPH-2F878	kCantonese	cit3
-U+2F894 弢 CJK COMPATIBILITY IDEOGRAPH-2F894	kCantonese	tou1
-U+2F8A6 慈 CJK COMPATIBILITY IDEOGRAPH-2F8A6	kCantonese	ci4
-U+2F8BF 搢 CJK COMPATIBILITY IDEOGRAPH-2F8BF	kCantonese	zeon3
-U+2F8CD 晉 CJK COMPATIBILITY IDEOGRAPH-2F8CD	kCantonese	zeon3
-U+2F8D2 冒 CJK COMPATIBILITY IDEOGRAPH-2F8D2	kCantonese	mou6
-U+2F8E0 枅 CJK COMPATIBILITY IDEOGRAPH-2F8E0	kCantonese	gai1
-U+2F907 洴 CJK COMPATIBILITY IDEOGRAPH-2F907	kCantonese	baan6
-U+2F994 芳 CJK COMPATIBILITY IDEOGRAPH-2F994	kCantonese	fong1
-U+2F9BC 蜨 CJK COMPATIBILITY IDEOGRAPH-2F9BC	kCantonese	sip3
-U+2F9D4 貫 CJK COMPATIBILITY IDEOGRAPH-2F9D4	kCantonese	gun3
+U+2F817 冗	kCantonese	jung2
+U+2F825 勇	kCantonese	jung5
+U+2F835 灰	kCantonese	fui1
+U+2F83B 吆	kCantonese	jiu1
+U+2F840 咢	kCantonese	ngok6
+U+2F865 姘	kCantonese	ping1
+U+2F878 屮	kCantonese	cit3
+U+2F894 弢	kCantonese	tou1
+U+2F8A6 慈	kCantonese	ci4
+U+2F8BF 搢	kCantonese	zeon3
+U+2F8CD 晉	kCantonese	zeon3
+U+2F8D2 冒	kCantonese	mou6
+U+2F8E0 枅	kCantonese	gai1
+U+2F907 洴	kCantonese	baan6
+U+2F994 芳	kCantonese	fong1
+U+2F9BC 蜨	kCantonese	sip3
+U+2F9D4 貫	kCantonese	gun3
 U+30021 𰀡	kCantonese	haan1
 U+30022 𰀢	kCantonese	gaam1
 U+3005C 𰁜	kCantonese	lyun4

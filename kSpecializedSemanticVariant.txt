@@ -295,7 +295,7 @@ U+7160 煠	kSpecializedSemanticVariant	U+70B8<kFenn
 U+71A8 熨	kSpecializedSemanticVariant	U+3DC9<kFenn U+5C09<kFenn
 U+71D5 燕	kSpecializedSemanticVariant	U+9DF0<kSMSZD2003Index:T
 U+7260 牠	kSpecializedSemanticVariant	U+5B83
-U+7274 牴	kSpecializedSemanticVariant	U+7274 U+89DD
+U+7274 牴	kSpecializedSemanticVariant	U+89DD
 U+7284 犄	kSpecializedSemanticVariant	U+8E26<kFenn
 U+7287 犇	kSpecializedSemanticVariant	U+5954<kFenn
 U+7343 獃	kSpecializedSemanticVariant	U+5446<kMeyerWempe

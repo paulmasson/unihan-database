@@ -12,6 +12,8 @@ U+4F75 併	kZVariant	U+5002
 U+5002 倂	kZVariant	U+4F75
 U+5024 値	kZVariant	U+503C
 U+503C 值	kZVariant	U+5024
+U+514C 兌	kZVariant	U+5151
+U+5151 兑	kZVariant	U+514C
 U+53F1 叱	kZVariant	U+20B9F
 U+5433 吳	kZVariant	U+5434 U+5449
 U+5434 吴	kZVariant	U+5433 U+5449
@@ -29,6 +31,7 @@ U+5A31 娱	kZVariant	U+5A1B U+5A2F
 U+5AAF 媯	kZVariant	U+5B00
 U+5AB2 媲	kZVariant	U+2180C
 U+5B00 嬀	kZVariant	U+5AAF
+U+5BC9 寉	kZVariant	U+96BA
 U+5E21 帡	kZVariant	U+5E32
 U+5E32 帲	kZVariant	U+5E21
 U+5FD7 志	kZVariant	U+225BD
@@ -73,6 +76,7 @@ U+7A05 稅	kZVariant	U+7A0E
 U+7A0E 税	kZVariant	U+7A05
 U+7A3D 稽	kZVariant	U+25874<kMorohashi:TZ
 U+7C51 籑	kZVariant	U+25D89
+U+7C5C 籜	kZVariant	U+2BF9F
 U+7D55 絕	kZVariant	U+7D76
 U+7D59 絙	kZVariant	U+7D5A
 U+7D5A 絚	kZVariant	U+7D59
@@ -103,6 +107,8 @@ U+8DE5 跥	kZVariant	U+8DFA
 U+8DFA 跺	kZVariant	U+8DE5
 U+8E97 躗	kZVariant	U+8E9B
 U+8E9B 躛	kZVariant	U+8E97
+U+8EB1 躱	kZVariant	U+8EB2
+U+8EB2 躲	kZVariant	U+8EB1
 U+8EFF 軿	kZVariant	U+8F27
 U+8F27 輧	kZVariant	U+8EFF
 U+9038 逸	kZVariant	U+284DC
@@ -119,6 +125,8 @@ U+9459 鑙	kZVariant	U+28BBA
 U+9686 隆	kZVariant	U+28E93
 U+96B7 隷	kZVariant	U+96B8
 U+96B8 隸	kZVariant	U+96B7
+U+96BA 隺	kZVariant	U+5BC9
+U+9832 頲	kZVariant	U+2BE14
 U+98EE 飮	kZVariant	U+98F2
 U+98F2 飲	kZVariant	U+98EE
 U+9ED1 黑	kZVariant	U+9ED2
@@ -143,6 +151,8 @@ U+28BBA 𨮺	kZVariant	U+9459
 U+28E93 𨺓	kZVariant	U+9686
 U+29FE3 𩿣	kZVariant	U+29FF2
 U+29FF2 𩿲	kZVariant	U+29FE3
+U+2BE14 𫸔	kZVariant	U+9832
+U+2BF9F 𫾟	kZVariant	U+7C5C
 U+2C13A 𬄺	kZVariant	U+237C3
 U+2CECB 𬻋	kZVariant	U+31F4C
 U+31F4C 𱽌	kZVariant	U+2CECB
