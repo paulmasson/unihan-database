@@ -9727,7 +9727,7 @@ U+752F 甯	kPhonetic	978
 U+7530 田	kPhonetic	1339
 U+7531 由	kPhonetic	1512
 U+7532 甲	kPhonetic	551
-U+7533 申	kPhonetic	67 1126
+U+7533 申	kPhonetic	1126
 U+7535 电	kPhonetic	1126
 U+7537 男	kPhonetic	940
 U+7538 甸	kPhonetic	1339
